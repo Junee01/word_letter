@@ -1,0 +1,9 @@
+c:\users\sjp\documents\visual studio 2012\Projects\SearchEngine_ver1.1\SearchEngine_ver1.1\bin\Debug\SearchEngine_ver1.1.exe.config
+c:\users\sjp\documents\visual studio 2012\Projects\SearchEngine_ver1.1\SearchEngine_ver1.1\obj\Debug\SearchEngine_ver1.1.csprojResolveAssemblyReference.cache
+c:\users\sjp\documents\visual studio 2012\Projects\SearchEngine_ver1.1\SearchEngine_ver1.1\obj\Debug\SearchEngine_ver1._1.Form1.resources
+c:\users\sjp\documents\visual studio 2012\Projects\SearchEngine_ver1.1\SearchEngine_ver1.1\obj\Debug\SearchEngine_ver1._1.Properties.Resources.resources
+c:\users\sjp\documents\visual studio 2012\Projects\SearchEngine_ver1.1\SearchEngine_ver1.1\obj\Debug\SearchEngine_ver1.1.csproj.GenerateResource.Cache
+c:\users\sjp\documents\visual studio 2012\Projects\SearchEngine_ver1.1\SearchEngine_ver1.1\bin\Debug\SearchEngine_ver1.1.exe
+c:\users\sjp\documents\visual studio 2012\Projects\SearchEngine_ver1.1\SearchEngine_ver1.1\bin\Debug\SearchEngine_ver1.1.pdb
+c:\users\sjp\documents\visual studio 2012\Projects\SearchEngine_ver1.1\SearchEngine_ver1.1\obj\Debug\SearchEngine_ver1.1.exe
+c:\users\sjp\documents\visual studio 2012\Projects\SearchEngine_ver1.1\SearchEngine_ver1.1\obj\Debug\SearchEngine_ver1.1.pdb

@@ -1,0 +1,10 @@
+﻿
+*****금지어 분석 결과(Warning)*****
+
+value = i		count = 16
+value = feel		count = 1
+value = handled		count = 1
+value = lovingly	count = 1
+value = guess		count = 1
+value = good		count = 1
+value = so		count = 1

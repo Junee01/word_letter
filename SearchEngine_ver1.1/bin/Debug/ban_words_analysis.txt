@@ -1,0 +1,4 @@
+
+*****금지어 분석 결과(Warning)*****
+
+value = stark               	count = 1
